@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hospital-connect-livecam-helping.trycloudflare.com/vnc.html
+URL       : https://bangkok-kits-rose-lightbox.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 00:31:36
+Created   : 2026-08-17 05:26:46
 =======================================================
