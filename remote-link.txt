@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://representations-sum-leave-alcohol.trycloudflare.com/vnc.html
+URL       : https://cpu-replacement-latest-dated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 01:49:16
+Created   : 2026-09-12 08:56:46
 =======================================================
