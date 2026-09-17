@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://candle-regard-owner-deposits.trycloudflare.com/vnc.html
+URL       : https://var-kits-accuracy-store.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-17 14:32:56
+Created   : 2026-09-17 18:41:37
 =======================================================
