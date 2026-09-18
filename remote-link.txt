@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://talent-cartridge-performing-dog.trycloudflare.com/vnc.html
+URL       : https://downloaded-proposed-duration-flashing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 09:18:18
+Created   : 2026-09-18 13:59:26
 =======================================================
