@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://governments-california-adds-seen.trycloudflare.com/vnc.html
+URL       : https://vision-language-cluster-hamilton.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 22:31:27
+Created   : 2026-10-04 03:05:19
 =======================================================
