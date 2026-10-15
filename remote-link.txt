@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://romantic-pull-whole-wyoming.trycloudflare.com/vnc.html
+URL       : https://bedford-wake-anna-exciting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 22:47:51
+Created   : 2026-10-15 02:04:36
 =======================================================
