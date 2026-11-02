@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://practices-ride-jewelry-there.trycloudflare.com/vnc.html
+URL       : https://local-decided-truly-forty.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 12:57:05
+Created   : 2026-11-02 22:57:35
 =======================================================
